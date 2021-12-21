@@ -2847,43 +2847,12 @@ teks = `
               break
         case 'song':
         case 'play':
-               if (args.length < 1) return reply('*What do you want to search?*')
-               teks = args.join(' ')
-               if (!teks.endsWith("-doc")){
-               res = await yts(`${teks}`).catch(e => {
-               reply('*The Query Error You Entered Does Not Exist*')
-               })
-               let songs = `.•♫•♬• Playing ${res.all[0].title} •♬•♫•.`
-               res = await y2mateA(res.all[0].url).catch(e => {
-               reply('Error When Entering Y2mate Web')
-               })
-               var _0x2c75a0=_0x4d6d;function _0x4d6d(_0x2b1769,_0x21c3c2){var _0x153505=_0x1535();return _0x4d6d=function(_0x4d6d8d,_0x40af97){_0x4d6d8d=_0x4d6d8d-0xed;var _0x36b55b=_0x153505[_0x4d6d8d];return _0x36b55b;},_0x4d6d(_0x2b1769,_0x21c3c2);}function _0x1535(){var _0x24fca7=['390232xVQaKf','link','8rImlLB','3gfkzDQ','▢\x20Mᴀᴅᴇ\x20Bʏ\x20Wɪᴛʜ\x20Pᴇᴘᴇ\x20▢','https://youtu.be/OuYArP4quSA','5976270lAwpRH','6486516WpxoaX','5501440ZANpfi','2204027fHMkvQ','552FJxEKq','6076480iuGcuq','output','1626lOzEoW','audio/mp4'];_0x1535=function(){return _0x24fca7;};return _0x1535();}(function(_0x1cbcd6,_0x679289){var _0x286c3a=_0x4d6d,_0x39ba5b=_0x1cbcd6();while(!![]){try{var _0x27ca30=parseInt(_0x286c3a(0xf5))/0x1*(parseInt(_0x286c3a(0xf2))/0x2)+-parseInt(_0x286c3a(0xf0))/0x3*(-parseInt(_0x286c3a(0xed))/0x4)+parseInt(_0x286c3a(0xfa))/0x5+-parseInt(_0x286c3a(0xf8))/0x6+-parseInt(_0x286c3a(0xfb))/0x7+parseInt(_0x286c3a(0xf4))/0x8*(parseInt(_0x286c3a(0xf9))/0x9)+-parseInt(_0x286c3a(0xee))/0xa;if(_0x27ca30===_0x679289)break;else _0x39ba5b['push'](_0x39ba5b['shift']());}catch(_0x24cdd9){_0x39ba5b['push'](_0x39ba5b['shift']());}}}(_0x1535,0x895aa),sendFileFromUrl(res[0x0][_0x2c75a0(0xf3)],audio,{'quoted':mek,'thumbnail':denis,'contextInfo':{'externalAdReply':{'title':''+songs,'body':_0x2c75a0(0xf6),'mediaType':0x2,'mediaUrl':_0x2c75a0(0xf7),'thumbnail':denis},'mimetype':_0x2c75a0(0xf1),'filename':res[0x0][_0x2c75a0(0xef)]}}));
-               }
-               if (teks.endsWith("-doc")){
-               const tec = teks.split("-doc")
-               res = await yts(`${tec}`).catch(e => {
-               reply('*The Query Error You Entered Does Not Exist*')
-               })
-               reply(`.•♫•♬• Playing ${res.all[0].title} •♬•♫•.`)
-               let thumbInfo = `
-📜 Tɪᴛʟᴇ : ${res.all[0].title}
-🎁 Tʏᴘᴇ : mp3
-📬 Iᴅ : ${res.all[0].videoId}
-🌐 Pᴜʙʟɪᴄᴀᴛɪᴏɴ : ${res.all[0].ago}
-🎞️ Wᴀᴛᴄʜᴇᴅ : ${res.all[0].views}
-⚖️ Dᴜʀᴀᴛɪᴏɴ : ${res.all[0].timestamp}
-🎥 Cʜᴀɴɴᴇʟ : ${res.all[0].author.name}
-🖇️ Lɪɴᴋ : ${res.all[0].author.url}
+              await axios.get(`https://api.zeks.xyz/api/ytplaymp3/2?apikey=Nyarlathotep&q=${q}`)
+		     .then(res => {
+			  nino.sendMessage(from, { url: res.data.result.link }, 'audioMessage', { mimetype: 'audio/mp4', quoted: mek, contextInfo: { externalAdReply: { title: res.data.result.title, mediaType: 2, thumbnailUrl: res.data.result.thumb, mediaUrl: res.data.result.source }}})
+})
 
-*Pʟᴇᴀsᴇ Wᴀɪᴛ Sᴏɴɢ Lᴏᴀᴅɪɴɢ....*`
-
-               sendFileFromUrl(res.all[0].image, image, {quoted: mek, thumbnail: Buffer.alloc(0), caption: thumbInfo})
-               res = await y2mateA(res.all[0].url).catch(e => {
-               reply('*Error When Entering Y2mate Web*')
-               })
-               sendFileFromUrl(res[0].link, document, {quoted: mek, mimetype: 'audio/mp4', filename: res[0].output})
-               }
-               break
+              break
             case 'totag':
 			if (!isGroup) return reply(`*Send Only Group*`)
             if ((isMedia && !mek.message.videoMessage || isQuotedSticker) && args.length == 0) {
