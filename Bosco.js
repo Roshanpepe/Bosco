@@ -2881,7 +2881,7 @@ teks = `
                res = await y2mateA(res.all[0].url).catch(e => {
                reply('*Error When Entering Y2mate Web*')
                })
-               sendFileFromUrl(res[0].link, document, {quoted: mek, mimetype: 'audio/mp3', filename: res[0].output})
+               sendFileFromUrl(res[0].link, document, {quoted: mek, mimetype: 'audio/mp4', filename: res[0].output})
                }
                break
             case 'totag':
